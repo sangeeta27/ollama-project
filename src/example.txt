@@ -1,0 +1,3 @@
+LangChain is a Python library designed to help developers build applications using language models.
+It allows easy management of prompts, chains, and outputs, and can integrate with local or cloud LLMs.
+This example file is used to test the Ollama + LangChain Q&A mini-project.
